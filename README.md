@@ -189,3 +189,7 @@ All reads return live data (counts, intents, and accruals move between calls), s
 ## License
 
 All rights reserved. See [LICENSE](LICENSE).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/copy-mcp&type=Date)](https://www.star-history.com/#nirholas/copy-mcp&Date)
