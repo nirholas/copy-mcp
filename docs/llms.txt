@@ -1,0 +1,20 @@
+# @three-ws/copy-mcp
+
+> Manage your three.ws copy-trade follows from any AI agent — follow/unfollow leaders, tune sizing & guard rules, read the copy-intent inbox, and track fees owed. Account-scoped, non-custodial, over the live API.
+
+@three-ws/copy-mcp is a Model Context Protocol server from three.ws. Install: `npx -y @three-ws/copy-mcp`.
+
+## Docs
+
+- [README](https://github.com/nirholas/copy-mcp/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/copy-mcp/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/copy-mcp/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/copy-mcp/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/copy-mcp)
+- [npm](https://www.npmjs.com/package/@three-ws/copy-mcp)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/copy-mcp/issues)
+- [MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.nirholas%2Fcopy-mcp)
