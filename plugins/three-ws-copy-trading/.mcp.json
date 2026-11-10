@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "copy": {
+      "command": "npx",
+      "args": ["-y", "@three-ws/copy-mcp"],
+      "env": { "THREE_WS_API_KEY": "${THREE_WS_API_KEY:-}" }
+    }
+  }
+}
